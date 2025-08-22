@@ -2,6 +2,10 @@
 
 A Node.js Express server with MongoDB integration for the Flutter Web Admin Panel.
 
+https://www.loom.com/share/ec9116890f4d4e159c34e569d4cf38ab?sid=7bd418d0-5450-4233-9b5b-6a0aa7b482df
+
+https://www.loom.com/share/3df3325f4d194520922238168f357e81?sid=0b0aa7ef-6602-4585-bba8-8e6cd6f0efb6
+
 ## 🚀 Quick Start
 
 ### Prerequisites
