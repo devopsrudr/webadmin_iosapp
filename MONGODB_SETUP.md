@@ -64,7 +64,7 @@ PORT=3000
 ### 2. MongoDB Atlas Setup
 Edit `backend/.env`:
 ```env
-MONGODB_URI=mongodb+srv://your-username:your-password@your-cluster.mongodb.net/webadmin_flutter
+
 PORT=3000
 ```
 
