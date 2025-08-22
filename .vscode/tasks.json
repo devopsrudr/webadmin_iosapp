@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Flutter Hot Restart",
+			"type": "shell",
+			"command": "flutter",
+			"args": [
+				"run",
+				"-d",
+				"chrome",
+				"--hot"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
